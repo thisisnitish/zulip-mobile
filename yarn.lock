@@ -9749,10 +9749,10 @@ react-native-tab-view@^2.15.2:
   resolved "https://registry.yarnpkg.com/react-native-tab-view/-/react-native-tab-view-2.15.2.tgz#4bc7832d33a119306614efee667509672a7ee64e"
   integrity sha512-2hxLkBnZtEKFDyfvNO5EUywhy3f/EiLOBO8SWqKj4BMBTO0QwnybaPE5MVF00Fhz+VA4+h/iI40Dkrrtq70dGg==
 
-react-native-text-input-reset@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-text-input-reset/-/react-native-text-input-reset-1.0.2.tgz#cfaa6d9b45da934e1725c01b1698f8a05591661c"
-  integrity sha512-URM1iHWBhYkdQ6zuBGdbX1hIav9aDTKnlGDnZQk3Ny+lxKmgsMHfFf1QZe8c91Gyj/SnCWgQMVv3um4T0kXqQw==
+react-native-text-input-reset@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/react-native-text-input-reset/-/react-native-text-input-reset-1.0.4.tgz#d2c73b83f15ae9d9d3bab39b72261e26fec43c48"
+  integrity sha512-xIzh9jE5o3jLnxCQoYBR460pPPrD5N79gcD98urgeKEZsFuwSDQke2dVxqsfbI2IcWs1T9b3mb4NSuew15yc0A==
 
 react-native-unimodules@^0.10.1:
   version "0.10.1"
