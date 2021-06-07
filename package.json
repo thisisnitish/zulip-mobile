@@ -24,7 +24,7 @@
     "update-libdefs": "yarn install && rm -rf flow-typed/npm/ && flow-typed update"
   },
   "dependencies": {
-    "@expo/react-native-action-sheet": "^3.8.0",
+    "@expo/react-native-action-sheet": "^3.9.0",
     "@react-native-community/async-storage": "^1.6.3",
     "@react-native-community/cameraroll": "^4.0.4",
     "@react-native-community/masked-view": "^0.1.10",
